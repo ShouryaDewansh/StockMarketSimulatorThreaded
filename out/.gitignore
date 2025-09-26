@@ -1,0 +1,12 @@
+# Ignore compiled output
+/out
+*.class
+
+# macOS system files
+.DS_Store
+
+# Demo video files (optional)
+*.mp4
+
+# Temporary or test data files
+data/ticks.ndjson
